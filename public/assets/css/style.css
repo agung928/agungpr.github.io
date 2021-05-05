@@ -150,32 +150,3 @@ section {
 .contact-mf {
   margin-top: 4rem;
 }
-/*======================================
-//--//-->   TESTIMONIALS
-======================================*/
-
-.testimonials .owl-carousel .owl-item img {
-  width: auto;
-}
-
-.testimonial-box {
-  color: #fff;
-  text-align: center;
-}
-
-.testimonial-box .author-test {
-  margin-top: 1rem;
-}
-
-.testimonial-box .author-test img {
-  margin: 0 auto;
-}
-
-.testimonial-box .author {
-  color: #fff;
-  text-transform: uppercase;
-  font-weight: 600;
-  margin: 1rem 0;
-  display: block;
-  font-size: 1.4rem;
-}
